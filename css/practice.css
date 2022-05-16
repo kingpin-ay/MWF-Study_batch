@@ -1,0 +1,13 @@
+.subscribe{
+    background-color: red;
+    width: 105px;
+    height: 36px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.subscribed{
+    background-color: rgb(150, 150, 150);
+}
